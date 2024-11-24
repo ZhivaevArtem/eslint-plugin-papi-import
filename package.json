@@ -1,0 +1,23 @@
+{
+  "name": "eslint-plugin-papi-import",
+  "version": "0.0.1",
+  "main": "index.js",
+  "keywords": [
+    "eslint",
+    "plugin",
+    "import",
+    "index",
+    "layer",
+    "public",
+    "direct",
+    "module"
+  ],
+  "author": "Blessed_988",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "4.5.2"
+  },
+  "peerDependencies": {
+    "eslint": ">=9.0.0"
+  }
+}
